@@ -7,7 +7,20 @@
     "start": "node guild-checker.js"
   },
   "dependencies": {
-    "dotenv": "^16.3.1",
+    "axios": "^1.11.0",
+    "dotenv": "^16.6.1",
     "node-fetch": "^3.3.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CuteDoggo420/Guild-Level-Pinger.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CuteDoggo420/Guild-Level-Pinger/issues"
+  },
+  "homepage": "https://github.com/CuteDoggo420/Guild-Level-Pinger#readme",
+  "description": ""
 }
