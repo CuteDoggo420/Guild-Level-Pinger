@@ -2,7 +2,7 @@ name: Ping Guild Every 5 Minutes
 
 on:
   schedule:
-    - cron: '*/5 * * * *' 
+    - cron: '*/20 * * * *' 
   workflow_dispatch:
 
 jobs:
